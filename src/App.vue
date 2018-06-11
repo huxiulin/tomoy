@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <!-- 头部部分 -->
     <!--<navbar></navbar>-->
     <div id="main">
       <keep-alive>
